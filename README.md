@@ -1,3 +1,4 @@
 # Piksel.js
 
-A super lightweight game engine (4kb) for pixelated canvas-based games.
+A super lightweight game engine (Xkb) for pixelated canvas-based games.
+WIP :)
